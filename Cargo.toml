@@ -1,0 +1,7 @@
+[package]
+name = "wasmparser-tanks"
+version = "0.1.0"
+authors = ["Yury Delendik <ydelendik@mozilla.com>"]
+
+[dependencies]
+wasmparser = "0.10.0"
